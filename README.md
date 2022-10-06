@@ -30,5 +30,23 @@ These two sources were used to get all the data used in this project.
 #### TMDB Data
 ![tmdb_data](Images/data.png)
 
+### Hypothesis Testing Insights
+
+#### Ratings Vs. Revenue
+![ratings](Images/ratings.png)
+> This plot goes along with what we found in our hypothesis test, that revenue is effected by the films certification. Films that rate around G, PG, PG-13 perform much better than the other films when it comes to revenue. This is most likely because that families go the movies together and watch lower rated films. 
+
+#### If movies make more revenue when they are longer than 2.5 hours or not
+![15](Images/over150.png)
+> This plot also goes along with our hypothesis testing, that films that are over 150 minutes tend to have higher revenue. There are other factors that probably go into this like the budget, And this leads us to going into other hypothesis testing as next steps. 
 
 
+#### Genre Vs. Revenue
+![genres](Images/Genres.png)
+> This plot shows us that that the popular genres are Fantasy, Adventure, Animation, Action, and Scifi. These films make a lot more in revenue compared to the others. This shows us that our alternative hypothesis was more in line because we can visually see that certain genres make more in revenue compared to others
+
+### Conclusion
+Our hypothesis testing gave us many insights on what can influence the revenue that a film may give us. Certain genres, length, and Ratings all go into play when determining how much revenue a film will earn. 
+
+### Next Steps
+Conducting a more advanced Linear Regression to determine what factors best play into determining how much revenue a film may generate. 
